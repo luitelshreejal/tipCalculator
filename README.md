@@ -1,4 +1,3 @@
-<img src="http://g.recordit.co/bR7plMMWNt.gif" width="250"
 # Pre-work - *tipCalculator*
 
 **Name of your app** is a tip calculator application for iOS.
